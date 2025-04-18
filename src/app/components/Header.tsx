@@ -29,7 +29,7 @@ const Header = () => {
                 <Image src={assets.right_arrow_white} alt="right arrow" className="w-4"/>
             </Link>
 
-            <Link href="/sample-resume.pdf" download
+            <Link href="/CV_MANDABA_Hermann_Freddy_William.pdf" download
             className="flex items-center gap-2 px-10  py-3 border boder-gray-500  rounded-full"
             >
                 My CV
