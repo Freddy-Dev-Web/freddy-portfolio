@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header className="flex flex-col pt-25 items-center justify-center gap-3 w-11/12 max-w-3xl text-center mx-auto h-screen ">
         <div>
-            <Image src={assets.freddy_photo} alt="profile" className="rounded-full w-35" />
+            <Image src={assets.freddy_logo} alt="profile" className="rounded-full w-35" />
         </div>
         <h3 className="flex items-end gap-2 text-xl md:text-2xl mb-3 font-Ovo">
             Hi ! I&apos;m Freddy MANDABA 

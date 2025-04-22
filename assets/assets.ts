@@ -7,7 +7,7 @@ import project_icon from './project-icon.png';
 import project_icon_dark from './project-icon-dark.png';
 import vscode from './vscode.png';
 import firebase from './firebase.png';
-import freddy_photo from './freddy.png'
+import freddy_logo from './freddy_logo.png'
 import typescript from './typescript.png'
 import figma from './figma.png';
 import next from './Next.jpeg'
@@ -41,7 +41,7 @@ import right_arrow_bold_dark from './right-arrow-bold-dark.png';
 
 export const assets = {
     user_image,
-    freddy_photo,
+    freddy_logo,
     code_icon,
     code_icon_dark,
     edu_icon,
@@ -158,7 +158,6 @@ export const toolsData = [
     assets.vscode, 
     assets.typescript,
     assets.firebase, 
-    assets.next, 
     assets.figma, 
     assets.git,
 ];
