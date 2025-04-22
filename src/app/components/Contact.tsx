@@ -7,12 +7,12 @@ const Contact = () => {
 
   const [result, setResult] = useState("");
 
-  const onSubmit = async (event) => {
+  const onSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
     setResult("Sending....");
 
-    const formData = new FormData(event.target);
-
+    const form = event.currentTarget; // Utilisation de event.currentTarget pour un typage sûr
+    const formData = new FormData(form)
     formData.append("access_key", "17459f68-f474-4307-a1e0-ecc7a90eb9a1");
 
     const response = await fetch("https://api.web3forms.com/submit", {
@@ -24,7 +24,7 @@ const Contact = () => {
 
     if (data.success) {
       setResult("Form Submitted Successfully");
-      event.target.reset();
+      form.reset(); //Reinitialisation du formulaire
       setTimeout(() => setResult(""), 5000);
     } else {
       console.log("Error", data);

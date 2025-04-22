@@ -10,25 +10,35 @@ const Navbar = () => {
 
 
   const [isScroll, setIsScroll] = useState(false)
-  const sideMenuRef = useRef(null)
+  const sideMenuRef = useRef<HTMLUListElement | null>(null); // Spécification du type
 
   const openMenu = () => {
-    sideMenuRef.current.style.transform = 'translateX(-16rem)'
+    if(sideMenuRef.current) {
+      sideMenuRef.current.style.transform = "translateX(-16rem)"
+    }
   }
 
   const closeMenu = () => {
-    sideMenuRef.current.style.transform = 'translateX(16rem)'
+    if(sideMenuRef.current) {
+      sideMenuRef.current.style.transform = "translateX(16rem)"
+    }
   }
 
   useEffect(() => {
-    window.addEventListener('scroll', () => {
-      if(scrollY > 50) {
-        setIsScroll(true)
-      }else {
-        setIsScroll(false)
+    const handleScroll = () => {
+      if (window.scrollY > 50) {
+        setIsScroll(true);
+      } else {
+        setIsScroll(false);
       }
-    })
-  },[])
+    };
+
+    window.addEventListener("scroll", handleScroll);
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
+ 
 
   return (
     <>
