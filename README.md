@@ -1,5 +1,4 @@
-
-## 💼 Portfolio | Freddy MANDABA – Développeur Frontend React
+# 💼 Portfolio | Freddy MANDABA – Développeur Frontend React
 
 Bienvenue sur mon portfolio en ligne !  
 Je suis **Freddy MANDABA**, un développeur frontend passionné, basé à **Bangui, République Centrafricaine** 🇨🇫.  
@@ -7,7 +6,7 @@ Je conçois et développe des interfaces modernes, rapides et accessibles en uti
 
 ---
 
-### 🚀 Objectifs du portfolio
+## 🚀 Objectifs du portfolio
 
 - Mettre en valeur mes compétences techniques en développement web frontend.
 - Présenter mes projets réalisés en freelance et dans le cadre de ma formation.
@@ -15,7 +14,7 @@ Je conçois et développe des interfaces modernes, rapides et accessibles en uti
 
 ---
 
-### 🛠️ Technologies utilisées
+## 🛠️ Technologies utilisées
 
 - **React.js** – Création d’interfaces utilisateur interactives et performantes.
 - **Next.js** – Framework React pour le rendu côté serveur (SSR) et l’optimisation SEO.
@@ -25,7 +24,7 @@ Je conçois et développe des interfaces modernes, rapides et accessibles en uti
 
 ---
 
-### 📁 Contenu du portfolio
+## 📁 Contenu du portfolio
 
 - Page d’accueil avec présentation personnelle
 - Section compétences techniques
@@ -36,20 +35,25 @@ Je conçois et développe des interfaces modernes, rapides et accessibles en uti
 
 ---
 
-### 🌐 Déploiement
+## 🌐 Déploiement
 
-Ce portfolio est déployé en ligne sur [Vercel](https://vercel.com/) pour assurer performance et rapidité.
+Ce portfolio est déployé en ligne via [Vercel](https://vercel.com/) pour assurer performance et rapidité.
 
 ---
 
-### 📬 Contact
+## 📬 Contact
 
 Tu veux me proposer une mission ou me poser une question ?  
-👉 [mandherman@gmail.com](mailto:mandherman@gmail.com)  
+📧 [mandherman@gmail.com](mailto:mandherman@gmail.com)  
 📞 +236 7411 3900
 
 ---
 
-### 🧠 À propos de moi
+## 🧠 À propos de moi
 
 Curieux, discipliné et passionné par le web, je m'engage à toujours apprendre, innover et créer des expériences utilisateur exceptionnelles. Mon objectif est de devenir un développeur full-stack confirmé et de contribuer à l'évolution technologique de l'Afrique à travers des projets concrets et utiles.
+
+---
+
+### ⭐ Merci d’avoir visité mon portfolio !
+N’hésite pas à laisser une ⭐ sur ce dépôt si tu apprécies mon travail.
