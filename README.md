@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## 💼 Portfolio | Freddy MANDABA – Développeur Frontend React
 
-First, run the development server:
+Bienvenue sur mon portfolio en ligne !  
+Je suis **Freddy MANDABA**, un développeur frontend passionné, basé à **Bangui, République Centrafricaine** 🇨🇫.  
+Je conçois et développe des interfaces modernes, rapides et accessibles en utilisant des technologies de pointe telles que **React**, **Next.js**, et **Tailwind CSS**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🚀 Objectifs du portfolio
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Mettre en valeur mes compétences techniques en développement web frontend.
+- Présenter mes projets réalisés en freelance et dans le cadre de ma formation.
+- Servir de vitrine professionnelle pour attirer des opportunités de collaboration, de stage ou d’emploi.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+### 🛠️ Technologies utilisées
 
-To learn more about Next.js, take a look at the following resources:
+- **React.js** – Création d’interfaces utilisateur interactives et performantes.
+- **Next.js** – Framework React pour le rendu côté serveur (SSR) et l’optimisation SEO.
+- **Tailwind CSS** – Framework CSS utilitaire pour des designs modernes et réactifs.
+- **TypeScript** – Pour plus de robustesse et de maintenabilité dans le code.
+- **Git & GitHub** – Gestion de version et collaboration de projets.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 📁 Contenu du portfolio
 
-## Deploy on Vercel
+- Page d’accueil avec présentation personnelle
+- Section compétences techniques
+- Galerie de projets avec démonstration et code source
+- Section contact avec formulaire fonctionnel via Web3Forms
+- Mode sombre (Dark Mode) intégré
+- Design responsive (adapté aux mobiles, tablettes et desktops)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 🌐 Déploiement
+
+Ce portfolio est déployé en ligne sur [Vercel](https://vercel.com/) pour assurer performance et rapidité.
+
+---
+
+### 📬 Contact
+
+Tu veux me proposer une mission ou me poser une question ?  
+👉 [mandherman@gmail.com](mailto:mandherman@gmail.com)  
+📞 +236 7411 3900
+
+---
+
+### 🧠 À propos de moi
+
+Curieux, discipliné et passionné par le web, je m'engage à toujours apprendre, innover et créer des expériences utilisateur exceptionnelles. Mon objectif est de devenir un développeur full-stack confirmé et de contribuer à l'évolution technologique de l'Afrique à travers des projets concrets et utiles.
