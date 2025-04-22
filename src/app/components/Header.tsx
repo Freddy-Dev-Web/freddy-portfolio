@@ -6,14 +6,14 @@ const Header = () => {
   return (
     <header className="flex flex-col pt-25 items-center justify-center gap-3 w-11/12 max-w-3xl text-center mx-auto h-screen ">
         <div>
-            <Image src={assets.freddy_logo} alt="profile" className="rounded-full w-35" />
+            <Image src={assets.freddy_logo} alt="profile" className="rounded-3xl w-38" />
         </div>
         <h3 className="flex items-end gap-2 text-xl md:text-2xl mb-3 font-Ovo">
             Hi ! I&apos;m Freddy MANDABA 
             <Image src={assets.hand_icon} alt="hand" className="w-8" />
         </h3>
         <h1 className="text-3xl sm:text-6xl lg:text-[66px] font-Ovo">
-            Frontend web developer based in RCA.
+            Frontend web developer based in C.A.R.
         </h1>
         <p className="max-w-2xl mx-auto font-Ovo">
             I am a frontend developer from Bangui RCA with 1 year of experience in multiple companies like IKOUE, Orange Centrafrique and BGFI.

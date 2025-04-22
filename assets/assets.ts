@@ -7,7 +7,7 @@ import project_icon from './project-icon.png';
 import project_icon_dark from './project-icon-dark.png';
 import vscode from './vscode.png';
 import firebase from './firebase.png';
-import freddy_logo from './freddy_logo.png'
+import freddy_logo from './freddy.png'
 import typescript from './typescript.png'
 import figma from './figma.png';
 import next from './Next.jpeg'
@@ -20,7 +20,7 @@ import mail_icon from './mail_icon.png';
 import mail_icon_dark from './mail_icon_dark.png';
 import profile_img from './profile-img.png';
 import download_icon from './download-icon.png';
-import hand_icon from './hand-icon.png';
+import hand_icon from './hand_icon.png';
 import header_bg_color from './header-bg-color.png';
 import moon_icon from './moon_icon.png';
 import sun_icon from './sun_icon.png';
